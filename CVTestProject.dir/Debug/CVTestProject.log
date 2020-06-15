@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: Das Zwischenverzeichnis (CVTestProject.dir\Debug\) enthält freigegebene Dateien aus einem anderen Projekt (CVTestProject.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  main.cpp
+  CVTestProject.vcxproj -> C:\Users\merle\Documents\VectorMedianFilter_Build\Debug\CVTestProject.exe

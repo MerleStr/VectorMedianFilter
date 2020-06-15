@@ -1,0 +1,10 @@
+^C:\USERS\MERLE\DOCUMENTS\VECTORMEDIANFILTER_BUILD\CMAKEFILES\017A7A1DF74ADD68BA1BA4C2AAEEA032\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/merle/Documents/VectorMedianFilter -BC:/Users/merle/Documents/VectorMedianFilter_Build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/merle/Documents/VectorMedianFilter_Build/CVTestProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
