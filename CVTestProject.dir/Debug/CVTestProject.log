@@ -1,31 +1,31 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: Das Zwischenverzeichnis (CVTestProject.dir\Debug\) enthält freigegebene Dateien aus einem anderen Projekt (CVTestProject.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
   main.cpp
-C:\Users\merle\Documents\VectorMedianFilter\main.cpp(141,64): warning C4244: "Argument": Konvertierung von "double" in "_Tp", möglicher Datenverlust
+C:\Users\merle\Documents\VectorMedianFilter\main.cpp(156,64): warning C4244: "Argument": Konvertierung von "double" in "_Tp", möglicher Datenverlust
           with
           [
               _Tp=int
           ]
-C:\Users\merle\Documents\VectorMedianFilter\main.cpp(141,44): warning C4244: "Argument": Konvertierung von "double" in "_Tp", möglicher Datenverlust
+C:\Users\merle\Documents\VectorMedianFilter\main.cpp(156,44): warning C4244: "Argument": Konvertierung von "double" in "_Tp", möglicher Datenverlust
           with
           [
               _Tp=int
           ]
-C:\Users\merle\Documents\VectorMedianFilter\main.cpp(142,65): warning C4244: "Argument": Konvertierung von "double" in "_Tp", möglicher Datenverlust
+C:\Users\merle\Documents\VectorMedianFilter\main.cpp(157,65): warning C4244: "Argument": Konvertierung von "double" in "_Tp", möglicher Datenverlust
           with
           [
               _Tp=int
           ]
-C:\Users\merle\Documents\VectorMedianFilter\main.cpp(142,45): warning C4244: "Argument": Konvertierung von "double" in "_Tp", möglicher Datenverlust
+C:\Users\merle\Documents\VectorMedianFilter\main.cpp(157,45): warning C4244: "Argument": Konvertierung von "double" in "_Tp", möglicher Datenverlust
           with
           [
               _Tp=int
           ]
-C:\Users\merle\Documents\VectorMedianFilter\main.cpp(143,62): warning C4244: "Argument": Konvertierung von "double" in "_Tp", möglicher Datenverlust
+C:\Users\merle\Documents\VectorMedianFilter\main.cpp(158,62): warning C4244: "Argument": Konvertierung von "double" in "_Tp", möglicher Datenverlust
           with
           [
               _Tp=int
           ]
-C:\Users\merle\Documents\VectorMedianFilter\main.cpp(143,42): warning C4244: "Argument": Konvertierung von "double" in "_Tp", möglicher Datenverlust
+C:\Users\merle\Documents\VectorMedianFilter\main.cpp(158,42): warning C4244: "Argument": Konvertierung von "double" in "_Tp", möglicher Datenverlust
           with
           [
               _Tp=int
